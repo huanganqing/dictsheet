@@ -7,6 +7,6 @@ pyasn1==0.1.9
 pyasn1-modules==0.0.8
 pytest==2.9.2
 requests==2.10.0
-rsa==3.4.2
+rsa==4.7
 six==1.10.0
 future==0.15.2
